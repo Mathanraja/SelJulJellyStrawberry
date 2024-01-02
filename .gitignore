@@ -1,0 +1,10 @@
+/target/
+.classpath
+.project
+.settings
+file.txt
+week1
+week2
+week3
+week4
+*.log
